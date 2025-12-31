@@ -20,7 +20,7 @@ from matplotlib.colors import ListedColormap
 # Page Config
 # ----------------------------------
 st.set_page_config(page_title="Logistic Regression App", layout="wide")
-st.title("📊 Customer Purchased Prediction of Cars using Logistic Regression")
+st.title("📊 Customer Purchased Prediction of Cars-Logistic Regression")
 
 # ----------------------------------
 # Upload Dataset
@@ -236,3 +236,4 @@ if uploaded_file is not None:
 
 else:
     st.info("⬅️ Upload a dataset from the sidebar to begin.")
+
