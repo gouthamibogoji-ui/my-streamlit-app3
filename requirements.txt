@@ -2,10 +2,4 @@ streamlit
 numpy
 pandas
 matplotlib
-sklearn
-train_test_split
-ColumnTransformer
-oneHotEncoder,StandardScaler
-LogisticRegression
-confusion_matrix,accuracy_score,classification_report,roc_auc_score,roc_curve
-ListedColormap
+scikit-learn
